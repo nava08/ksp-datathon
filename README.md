@@ -1,6 +1,5 @@
 # ksp-datathon
 
-# KSP InsightX
 
 AI-Driven Crime Analytics & Visualization Platform for Karnataka State Police Datathon 2026.
 
